@@ -3,6 +3,8 @@ https://github.com/darkoperator/dnsrecon
 
 Esta ferramenta é 100% gratuita e desenvolvida para fins educacionais. Por favor, não lucrem em cima dela.
 
+Ferramenta para sistema debian e derivados.
+
 Ferramenta open source voltado para Pentest e Cibersegurança
 Instalação contém as seguintes ferramentas:
 python3
